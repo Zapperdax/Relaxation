@@ -1,7 +1,8 @@
 const CronJob = require("cron").CronJob;
 const {exec} = require("child_process");
 const bashScriptPath = './git_commit.sh';
-const job = new CronJob('20 19 * * *', () => {
+const job = new CronJob('23 19 * * *', () => {
+    console.log('JOB TRIGGERED');
   exec(`which bash`, (error, stdout, stderr) => {
     console.log(`bash path:${stdout}`);
     if (error) {
