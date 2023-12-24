@@ -1,24 +1,20 @@
 #!/bin/bash
 
 source "$(dirname "$0")/.env"
-# Your Git repository path
-repo_path="https://github.com/Zapperdax/Relaxation"
+# Your GitHub repository
+repo="Zapperdax/Relaxation"
 
-# The file you want to edit
-file_to_edit="$repo_path/timestamps.txt"
+# The file you want to edit using GitHub API
+file_path="timestamps.txt"
 
 # Your GitHub branch
 branch="main"
-
-# Set Git credentials
-git config --global credential.helper store
-echo -e "https://${github_username}:${github_token}@github.com" > ~/.git-credentials
 
 # Generate a new commit message with the current date
 commit_message="Some Changes"
 
 # Navigate to your Git repository directory
-cd "$repo_path"
+cd "$(dirname "$0")"
 
 # Generate a random number between 1 and 40
 random_number=$((10 + RANDOM % 5))
@@ -27,7 +23,7 @@ random_number=$((10 + RANDOM % 5))
 for ((i=1; i<=$random_number; i++))
 do
     # Make a change to the file (e.g., add a timestamp)
-    echo "Timestamp: $(date)" >> "$file_to_edit"
+    echo "Timestamp: $(date)" >> "$file_path"
 
     # Before and after Git commands, add lines to print debugging information
 
@@ -39,15 +35,6 @@ done
 
 # Push to the specified branch in the remote repository
 git push -u origin "$branch"
-
-# Your GitHub repository
-repo="Zapperdax/Relaxation"
-
-# The file you want to edit using GitHub API
-file_path="timestamps.txt"
-
-# Generate a new commit message with the current date
-commit_message="Some Changes"
 
 # Edit the file using GitHub API
 curl -X PUT \
