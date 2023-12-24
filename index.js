@@ -1,8 +1,9 @@
 const CronJob = require("cron").CronJob;
-const {exec} = require("child_process");
+const { exec } = require("child_process");
 const bashScriptPath = './git_commit.sh';
-console.log("Started");
-const job = new CronJob('6 19 * * *', () => {
+
+const runScheduledJob = () => {
+  console.log("Job triggered");
   exec(`bash ${bashScriptPath}`, (error, stdout, stderr) => {
     if (error) {
       console.error(`Error executing Bash script: ${error}`);
@@ -11,6 +12,8 @@ const job = new CronJob('6 19 * * *', () => {
     console.log(`Bash script output: ${stdout}`);
     console.error(`Bash script errors: ${stderr}`);
   });
-}, null, true, 'Asia/Karachi');
+};
 
+// Schedule the job
+const job = new CronJob('6 19 * * *', runScheduledJob, null, true, 'Asia/Karachi');
 job.start();
