@@ -30,7 +30,7 @@ do
     # Perform Git commands
     git add .
     git commit -m "$commit_message"
-    # sleep $((10 + RANDOM % 100))
+    # sleep $((10 + RANDOM % 1000))
 done
 
 # Push to the specified branch in the remote repository
