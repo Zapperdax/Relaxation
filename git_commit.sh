@@ -16,8 +16,8 @@ commit_message="Some Changes"
 # Navigate to your Git repository directory
 cd "$(dirname "$0")"
 
-# Generate a random number between 1 and 40
-random_number=$((10 + RANDOM % 5))
+# Generate a random number between 1 and 5
+random_number=$((1 + RANDOM % 5))
 
 # Loop for the generated random number of times
 for ((i=1; i<=$random_number; i++))
