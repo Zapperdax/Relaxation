@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source "$(dirname "$0)/.env"
+source "$(dirname "$0")/.env"
 # Your Git repository path
 repo_path="https://github.com/Zapperdax/Relaxation"
 
