@@ -5,7 +5,7 @@ const bashScriptPath = path.join(__dirname, "git_commit.sh");
 
 
 const runScheduledJob = () => {
-  exec(`which bash`, (error, stdout, stderr) => {
+  exec(`/bin/bash`, (error, stdout, stderr) => {
     if (error) {
       console.error(`Error executing Bash script: ${error}`);
       return;
@@ -16,7 +16,7 @@ const runScheduledJob = () => {
 };
 
 // Schedule the job
-const job = new CronJob('27 20 * * *', runScheduledJob, null, true, 'Asia/Karachi');
+const job = new CronJob('30 20 * * *', runScheduledJob, null, true, 'Asia/Karachi');
 job.start();
 
 module.exports = runScheduledJob;
