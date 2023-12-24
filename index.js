@@ -17,3 +17,5 @@ const runScheduledJob = () => {
 // Schedule the job
 const job = new CronJob('6 19 * * *', runScheduledJob, null, true, 'Asia/Karachi');
 job.start();
+
+module.exports = runScheduledJob;
