@@ -39,9 +39,12 @@ done
 # Push to the specified branch in the remote repository
 git push -u origin "$branch"
 
-# Edit the file using GitHub API, including the SHA
+# Retrieve the latest SHA of the file after the push
+latest_sha=$(curl -s -H "Authorization: token ${github_token}" "https://api.github.com/repos/$repo/contents/$file_path?ref=$branch" | jq -r .sha)
+
+# Edit the file using GitHub API, including the latest SHA
 curl -X PUT \
   -H "Authorization: token ${github_token}" \
   -H "Content-Type: application/json" \
-  -d '{"message": "'"$commit_message"'", "content": "'"$(echo -n "Timestamp: $(date)" | base64)"'", "branch": "'"$branch"'", "sha": "'"$sha"'"}' \
+  -d '{"message": "'"$commit_message"'", "content": "'"$(echo -n "Timestamp: $(date)" | base64)"'", "branch": "'"$branch"'", "sha": "'"$latest_sha"'"}' \
   "https://api.github.com/repos/$repo/contents/$file_path"
