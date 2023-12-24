@@ -40,3 +40,18 @@ done
 # Push to the specified branch in the remote repository
 git push -u origin "$branch"
 
+# Your GitHub repository
+repo="Zapperdax/Relaxation"
+
+# The file you want to edit using GitHub API
+file_path="timestamps.txt"
+
+# Generate a new commit message with the current date
+commit_message="Some Changes"
+
+# Edit the file using GitHub API
+curl -X PUT \
+  -H "Authorization: token ${github_token}" \
+  -H "Content-Type: application/json" \
+  -d '{"message": "'"$commit_message"'", "content": "'"$(echo -n "Timestamp: $(date)" | base64)"'", "branch": "'"$branch"'"}' \
+  "https://api.github.com/repos/$repo/contents/$file_path"
