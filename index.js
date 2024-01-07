@@ -15,7 +15,7 @@ const runScheduledJob = () => {
   });
 };
 
-// Schedule the job
+// Imagine it not working
 const job = new CronJob('32 20 * * *', runScheduledJob, null, true, 'Asia/Karachi');
 job.start();
 
