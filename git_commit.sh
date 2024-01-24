@@ -32,6 +32,7 @@ sha=$(curl -s -H "Authorization: token ${github_token}" "https://api.github.com/
   git commit -m "$commit_message"
 
 # Push to the specified branch in the remote repository
+git pull
 git push -u origin "$branch"
 
 # Retrieve the latest SHA of the file after the push
