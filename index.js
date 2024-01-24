@@ -5,10 +5,10 @@ const path = require("path");
 const bashScriptPath = path.join(__dirname, "git_commit.sh");
 
 const generateRandomTime = () => {
-  // const hour = Math.floor(Math.random() * 24);
-  // const minute = Math.floor(Math.random() * 60);
-  const hour = 19;
-  const minute = 35;
+  const hour = Math.floor(Math.random() * 24);
+  const minute = Math.floor(Math.random() * 60);
+  //const hour = 19;
+  //const minute = 35;
   return `${minute} ${hour} * * *`; // Format: minute hour * * *
 };
 
@@ -24,19 +24,19 @@ const runScheduledJob = () => {
 };
 
 const startJobScheduler = () => {
-    //const loop = () => {
-    //const randomTimeExpression = generateRandomTime();
-    //const job = new CronJob(randomTimeExpression, runScheduledJob, null, false, 'Asia/Karachi');
-    //job.start();
+    const loop = () => {
+    const randomTimeExpression = generateRandomTime();
+    const job = new CronJob(randomTimeExpression, runScheduledJob, null, false, 'Asia/Karachi');
+    job.start();
 
     // Wait for the next execution
-    //setTimeout(() => {
-      //job.stop();
-     // loop();
-    //}, 24 * 60 * 60 * 1000); // Wait for 24 hours before starting the loop again
-  //};
+    setTimeout(() => {
+      job.stop();
+      loop();
+    }, 24 * 60 * 60 * 1000); // Wait for 24 hours before starting the loop again
+  };
 
-  //loop();
+  loop();
   runScheduledJob();
 };
 
