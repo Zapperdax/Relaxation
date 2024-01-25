@@ -1,0 +1,70 @@
+Bash script output: [main c01ed7a] Some Changes
+Auto-merging timestamps.txt
+CONFLICT (content): Merge conflict in timestamps.txt
+Automatic merge failed; fix conflicts and then commit the result.
+{
+  "content": {
+    "name": "timestamps.txt",
+    "path": "timestamps.txt",
+    "sha": "94d385a827dcdf8bad39767aaf8257c06bdbb4d9",
+    "size": 42,
+    "url": "https://api.github.com/repos/Zapperdax/Relaxation/contents/timestamps.txt?ref=main",
+    "html_url": "https://github.com/Zapperdax/Relaxation/blob/main/timestamps.txt",
+    "git_url": "https://api.github.com/repos/Zapperdax/Relaxation/git/blobs/94d385a827dcdf8bad39767aaf8257c06bdbb4d9",
+    "download_url": "https://raw.githubusercontent.com/Zapperdax/Relaxation/main/timestamps.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Zapperdax/Relaxation/contents/timestamps.txt?ref=main",
+      "git": "https://api.github.com/repos/Zapperdax/Relaxation/git/blobs/94d385a827dcdf8bad39767aaf8257c06bdbb4d9",
+      "html": "https://github.com/Zapperdax/Relaxation/blob/main/timestamps.txt"
+    }
+  },
+  "commit": {
+    "sha": "8a840a1729ec51264edfab58b6f93a230b2dddae",
+    "node_id": "C_kwDOK9PlZdoAKDhhODQwYTE3MjllYzUxMjY0ZWRmYWI1OGI2ZjkzYTIzMGIyZGRkYWU",
+    "url": "https://api.github.com/repos/Zapperdax/Relaxation/git/commits/8a840a1729ec51264edfab58b6f93a230b2dddae",
+    "html_url": "https://github.com/Zapperdax/Relaxation/commit/8a840a1729ec51264edfab58b6f93a230b2dddae",
+    "author": {
+      "name": "Qasim Ahmed",
+      "email": "100600737+Zapperdax@users.noreply.github.com",
+      "date": "2024-01-24T15:01:24Z"
+    },
+    "committer": {
+      "name": "Qasim Ahmed",
+      "email": "100600737+Zapperdax@users.noreply.github.com",
+      "date": "2024-01-24T15:01:24Z"
+    },
+    "tree": {
+      "sha": "ef9617eb724bc12dbfc3b7109dc2570f8ab280e2",
+      "url": "https://api.github.com/repos/Zapperdax/Relaxation/git/trees/ef9617eb724bc12dbfc3b7109dc2570f8ab280e2"
+    },
+    "message": "Some Changes",
+    "parents": [
+      {
+        "sha": "1b51d78a09db7b6f15ade77a9cac95767e7c5407",
+        "url": "https://api.github.com/repos/Zapperdax/Relaxation/git/commits/1b51d78a09db7b6f15ade77a9cac95767e7c5407",
+        "html_url": "https://github.com/Zapperdax/Relaxation/commit/1b51d78a09db7b6f15ade77a9cac95767e7c5407"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null
+    }
+  }
+}
+
+Bash script errors: From https://github.com/Zapperdax/Relaxation
+   9120c33..1b51d78  main       -> origin/main
+To https://github.com/Zapperdax/Relaxation.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Zapperdax/Relaxation.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167    0     0  100   167      0    191 --:--:-- --:--:-- --:--:--   191100  2435  100  2268  100   167   2605    191 --:--:-- --:--:-- --:--:--  2795
+
