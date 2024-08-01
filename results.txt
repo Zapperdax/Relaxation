@@ -109,3 +109,20 @@ To https://github.com/Zapperdax/Relaxation.git
 
 26 21 * * *
 54 1 * * *
+Bash script output: [main c3e43d1] Some Changes
+ 2 files changed, 20 insertions(+)
+Already up to date.
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+{
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest",
+  "status": "401"
+}
+
+Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
+To https://github.com/Zapperdax/Relaxation.git
+   1279c1a..c3e43d1  main -> main
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    183    221 --:--:-- --:--:-- --:--:--   405
+
