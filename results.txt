@@ -1,437 +1,2 @@
-37 15 * * *
-57 3 * * *
-Bash script output: [main c02aba1] Some Changes
- 2 files changed, 1 insertion(+)
- rewrite results.txt (100%)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   f484e2c..c02aba1  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    176    211 --:--:-- --:--:-- --:--:--   388
-
-Bash script output: [main 47b8721] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   cc01850..47b8721  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    177    212 --:--:-- --:--:-- --:--:--   389
-
-57 11 * * *
-53 21 * * *
-Bash script output: [main ebd6ee5] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   47b8721..ebd6ee5  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    170    205 --:--:-- --:--:-- --:--:--   375
-
-Bash script output: [main 7903e59] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   ebd6ee5..7903e59  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    177    213 --:--:-- --:--:-- --:--:--   391
-
-11 12 * * *
-23 17 * * *
-Bash script output: [main 2645e47] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   7f01c31..2645e47  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    182    219 --:--:-- --:--:-- --:--:--   402
-
-Bash script output: [main 8374ea1] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   d4639e0..8374ea1  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    178    214 --:--:-- --:--:-- --:--:--   392
-
-52 4 * * *
-21 12 * * *
-Bash script output: [main 3239bbf] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   678e7c9..3239bbf  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    181    217 --:--:-- --:--:-- --:--:--   399
-
-Bash script output: [main 9759e5b] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   0fa0d4e..9759e5b  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    180    216 --:--:-- --:--:-- --:--:--   398
-
-3 8 * * *
-39 7 * * *
-Bash script output: [main d4f3187] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   9f88325..d4f3187  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    174    209 --:--:-- --:--:-- --:--:--   384
-
-Bash script output: [main d464b91] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   d4f3187..d464b91  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    178    214 --:--:-- --:--:-- --:--:--   392
-
-55 4 * * *
-26 4 * * *
-Bash script output: [main 30590b2] Some Changes
- 2 files changed, 18 insertions(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   571e3cc..30590b2  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    184    221 --:--:-- --:--:-- --:--:--   406
-
-Bash script output: [main e53d43c] Some Changes
- 2 files changed, 19 insertions(+), 1 deletion(-)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   30590b2..e53d43c  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    105    126  0:00:01  0:00:01 --:--:--   231100   240  100   109  100   131    105    126  0:00:01  0:00:01 --:--:--   231
-
-23 8 * * *
-38 13 * * *
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              48 3 * * *
-44 19 * * *
-Bash script output: [main 204b73a] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   c02aba1..204b73a  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    177    212 --:--:-- --:--:-- --:--:--   390
-
-Bash script output: [main cc01850] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   204b73a..cc01850  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    182    219 --:--:-- --:--:-- --:--:--   402
-
-22 10 * * *
-55 0 * * *
-Bash script output: [main d01f91c] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   7903e59..d01f91c  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    186    224 --:--:-- --:--:-- --:--:--   410
-
-Bash script output: [main 7f01c31] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   d01f91c..7f01c31  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    180    216 --:--:-- --:--:-- --:--:--   396
-
-53 6 * * *
-23 16 * * *
-Bash script output: [main d4639e0] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   2645e47..d4639e0  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    185    222 --:--:-- --:--:-- --:--:--   406
-
-Bash script output: [main 678e7c9] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   8374ea1..678e7c9  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    187    224 --:--:-- --:--:-- --:--:--   411
-
-34 13 * * *
-51 9 * * *
-Bash script output: [main 0fa0d4e] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   3239bbf..0fa0d4e  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    175    210 --:--:-- --:--:-- --:--:--   385
-
-Bash script output: [main 34cde85] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   9759e5b..34cde85  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    172    206 --:--:-- --:--:-- --:--:--   378
-
-0 0 * * *
-40 13 * * *
-Bash script output: [main 481e0d1] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   34cde85..481e0d1  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    174    209 --:--:-- --:--:-- --:--:--   383
-
-Bash script output: [main 9f88325] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   481e0d1..9f88325  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    176    212 --:--:-- --:--:-- --:--:--   389
-
-15 8 * * *
-33 11 * * *
-Bash script output: [main 571e3cc] Some Changes
- 2 files changed, 1 insertion(+)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   d464b91..571e3cc  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    174    210 --:--:-- --:--:-- --:--:--   385
-
-Bash script output: [main cbe1162] Some Changes
- 2 files changed, 19 insertions(+), 1 deletion(-)
-Already up to date.
-Branch 'main' set up to track remote branch 'main' from 'origin'.
-{
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest",
-  "status": "401"
-}
-
-Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-To https://github.com/Zapperdax/Relaxation.git
-   e53d43c..cbe1162  main -> main
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    168    202 --:--:-- --:--:-- --:--:--   371
-
-1 6 * * *
-25 2 * * *
+13 6 * * *
+20 12 * * *
