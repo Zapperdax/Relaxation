@@ -144,23 +144,24 @@ To https://github.com/Zapperdax/Relaxation.git
 
 25 17 * * *
 55 16 * * *
-e/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
-To add an exception for this directory, call:
+Bash script output: [main ce4ce09] Some Changes
+ 2 files changed, 72 insertions(+), 13 deletions(-)
+Already up to date.
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+{
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest",
+  "status": "401"
+}
 
-	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
-fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
-To add an exception for this directory, call:
+Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
+To https://github.com/Zapperdax/Relaxation.git
+   3ab3af8..ce4ce09  main -> main
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    184    221 --:--:-- --:--:-- --:--:--   406100   240  100   109  100   131    184    221 --:--:-- --:--:-- --:--:--   405
 
-	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
-fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
-fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+elaxation
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    181    218 --:--:-- --:--:-- --:--:--   399
