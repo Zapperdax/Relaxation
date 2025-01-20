@@ -161,24 +161,26 @@ To https://github.com/Zapperdax/Relaxation.git
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    184    221 --:--:-- --:--:-- --:--:--   406100   240  100   109  100   131    184    221 --:--:-- --:--:-- --:--:--   405
 
-elaxation
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    181    218 --:--:-- --:--:-- --:--:--   399
-
-30 1 * * *
-23 8 * * *
-Bash script output: {
+Bash script output: [main 4a1b55b] Some Changes
+ 2 files changed, 17 insertions(+), 15 deletions(-)
+Already up to date.
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+{
   "message": "Bad credentials",
   "documentation_url": "https://docs.github.com/rest",
   "status": "401"
 }
 
 Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
-fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
-To add an exception for this directory, call:
+To https://github.com/Zapperdax/Relaxation.git
+   ce4ce09..4a1b55b  main -> main
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    195    234 --:--:-- --:--:-- --:--:--   430
 
-	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+43 18 * * *
+0 2 * * *
+afe.directory /home/ubuntu/qasim/Relaxation
 fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
 To add an exception for this directory, call:
 
@@ -336,3 +338,113 @@ To add an exception for this directory, call:
 
 27 9 * * *
 38 1 * * *
+Bash script output: {
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest",
+  "status": "401"
+}
+
+Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    183    221 --:--:-- --:--:-- --:--:--   404
+
+Bash script output: {
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest",
+  "status": "401"
+}
+
+Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    181    218 --:--:-- --:--:-- --:--:--   400
+
+24 16 * * *
+3 16 * * *
+Bash script output: {
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest",
+  "status": "401"
+}
+
+Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    181    217 --:--:-- --:--:-- --:--:--   398
+
+Bash script output: {
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest",
+  "status": "401"
+}
+
+Bash script errors: /home/ubuntu/qasim/Relaxation/git_commit.sh: line 3: /home/ubuntu/qasim/Relaxation/.env: No such file or directory
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+fatal: detected dubious ownership in repository at '/home/ubuntu/qasim/Relaxation'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/qasim/Relaxation
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   240  100   109  100   131    181    218 --:--:-- --:--:-- --:--:--   400
+
